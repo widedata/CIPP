@@ -32,10 +32,7 @@
   {
     "name": "InactiveLicensedUsers",
     "label": "Alert on licensed users that have not logged in for 90 days",
-    "requiresInput": true,
-    "inputType": "switch",
-    "inputLabel": "Exclude disabled users?",
-    "inputName": "InactiveLicensedUsersExcludeDisabled",
+<<<<<<< HEAD
     "recommendedRunInterval": "1d"
   },
   {
