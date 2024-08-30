@@ -1,7 +1,7 @@
 {
   "name": "cipp",
-  "version": "8.0.3",
-  "author": "CIPP Contributors",
+  "version": "6.4.0",
+  "description": "The CyberDrain Improved Partner Portal is a portal to help manage administration for Microsoft Partners.",
   "homepage": "https://cipp.app/",
   "bugs": {
     "url": "https://github.com/KelvinTegelaar/CIPP/issues"
