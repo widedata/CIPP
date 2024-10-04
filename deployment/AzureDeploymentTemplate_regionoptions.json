@@ -24,13 +24,6 @@
 <<<<<<< HEAD
 =======
       }
-    },
-    "GithubAPIRepository": {
-      "defaultValue": "https://github.com/KelvinTegelaar/CIPP-API",
-      "type": "string",
-      "metadata": {
-        "description": "URL to your Github backend fork."
-      }
     }
   },
   "variables": {
